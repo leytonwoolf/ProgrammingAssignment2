@@ -1,5 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+## makeCacheMatrix & cacheSolve work in combination to create and store in cache
+## a given matrix and its inverse.  If inverse is not stored in cache, it will be
+## created and stored in cache.
+
 
 ## makeCacheMatrix creates an R object that stores a matrix and its inverse in cache 
 
