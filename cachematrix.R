@@ -1,5 +1,5 @@
 ## makeCacheMatrix & cacheSolve work in combination to create and store in cache
-## a given matrix and its inverse.  If inverse is not stored in cache, it will be
+## a given matrix and its inverse.  If the inverse is not stored in cache, it will be
 ## created and stored in cache.
 
 
